@@ -1,0 +1,14 @@
+D:\TRABAJO\Semana02\Programa01\Programa01\bin\Debug\net8.0\Programa01.exe
+D:\TRABAJO\Semana02\Programa01\Programa01\bin\Debug\net8.0\Programa01.deps.json
+D:\TRABAJO\Semana02\Programa01\Programa01\bin\Debug\net8.0\Programa01.runtimeconfig.json
+D:\TRABAJO\Semana02\Programa01\Programa01\bin\Debug\net8.0\Programa01.dll
+D:\TRABAJO\Semana02\Programa01\Programa01\bin\Debug\net8.0\Programa01.pdb
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\Programa01.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\Programa01.AssemblyInfoInputs.cache
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\Programa01.AssemblyInfo.cs
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\Programa01.csproj.CoreCompileInputs.cache
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\Programa01.dll
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\refint\Programa01.dll
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\Programa01.pdb
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\Programa01.genruntimeconfig.cache
+D:\TRABAJO\Semana02\Programa01\Programa01\obj\Debug\net8.0\ref\Programa01.dll
