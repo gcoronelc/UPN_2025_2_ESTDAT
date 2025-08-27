@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Semana01\\ESDAT-SEMANA01-EJER03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3935B2E6-89CF-4CF1-9954-FC23CA8BFF79}|LISTASENLAALUMNOS\\LISTASENLAALUMNOS.csproj|d:\\upn\\ug-estructura de datos\\semana01\\esdat-semana01-ejer03\\listasenlaalumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3935B2E6-89CF-4CF1-9954-FC23CA8BFF79}|LISTASENLAALUMNOS\\LISTASENLAALUMNOS.csproj|solutionrelative:listasenlaalumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Semana01\\ESDAT-SEMANA01-EJER03\\LISTASENLAALUMNOS\\Program.cs",
+              "RelativeDocumentMoniker": "LISTASENLAALUMNOS\\Program.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Semana01\\ESDAT-SEMANA01-EJER03\\LISTASENLAALUMNOS\\Program.cs",
+              "RelativeToolTip": "LISTASENLAALUMNOS\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:41:50.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Semana01\\ESDAT-SEMANA01-EJER01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2124E776-D9FC-4261-B224-518D22DAF4CC}|LISTASINSERTAREJER01\\LISTASINSERTAREJER01.csproj|d:\\upn\\ug-estructura de datos\\semana01\\esdat-semana01-ejer01\\listasinsertarejer01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2124E776-D9FC-4261-B224-518D22DAF4CC}|LISTASINSERTAREJER01\\LISTASINSERTAREJER01.csproj|solutionrelative:listasinsertarejer01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Semana01\\ESDAT-SEMANA01-EJER01\\LISTASINSERTAREJER01\\Program.cs",
+              "RelativeDocumentMoniker": "LISTASINSERTAREJER01\\Program.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Semana01\\ESDAT-SEMANA01-EJER01\\LISTASINSERTAREJER01\\Program.cs",
+              "RelativeToolTip": "LISTASINSERTAREJER01\\Program.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:27:42.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

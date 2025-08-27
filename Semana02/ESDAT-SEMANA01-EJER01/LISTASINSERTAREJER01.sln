@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTASINSERTAREJER01", "LISTASINSERTAREJER01\LISTASINSERTAREJER01.csproj", "{2124E776-D9FC-4261-B224-518D22DAF4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2124E776-D9FC-4261-B224-518D22DAF4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2124E776-D9FC-4261-B224-518D22DAF4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2124E776-D9FC-4261-B224-518D22DAF4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2124E776-D9FC-4261-B224-518D22DAF4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDAA6189-96D3-43A9-9597-83E34C92EB3D}
+	EndGlobalSection
+EndGlobal
