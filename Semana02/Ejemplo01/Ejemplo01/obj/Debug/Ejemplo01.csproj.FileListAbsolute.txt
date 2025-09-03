@@ -1,0 +1,16 @@
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.exe.config
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.pdb
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.AssemblyReference.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.SuggestedBindingRedirects.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.CoreCompileInputs.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.pdb
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.exe.config
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.exe
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.pdb
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.AssemblyReference.cache
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.exe.config
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.CoreCompileInputs.cache
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.exe
+D:\UPN\WA-ESTRUCTURA DE DATOS\Semana01\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.pdb

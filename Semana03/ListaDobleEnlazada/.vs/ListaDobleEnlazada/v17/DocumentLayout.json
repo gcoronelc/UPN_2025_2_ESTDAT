@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F5B01E-55C3-4CE5-85E9-28AA006C1EAB}|ListaDobleEnlazada\\ListaDobleEnlazada.csproj|D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\listadobleenlazada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F5B01E-55C3-4CE5-85E9-28AA006C1EAB}|ListaDobleEnlazada\\ListaDobleEnlazada.csproj|solutionrelative:listadobleenlazada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F5B01E-55C3-4CE5-85E9-28AA006C1EAB}|ListaDobleEnlazada\\ListaDobleEnlazada.csproj|d:\\upn\\wa-estructura de datos\\semana02\\listadobleenlazada\\listadobleenlazada\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F5B01E-55C3-4CE5-85E9-28AA006C1EAB}|ListaDobleEnlazada\\ListaDobleEnlazada.csproj|solutionrelative:listadobleenlazada\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F5B01E-55C3-4CE5-85E9-28AA006C1EAB}|ListaDobleEnlazada\\ListaDobleEnlazada.csproj|D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\listadobleenlazada\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F5B01E-55C3-4CE5-85E9-28AA006C1EAB}|ListaDobleEnlazada\\ListaDobleEnlazada.csproj|solutionrelative:listadobleenlazada\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\ListaDobleEnlazada\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "ListaDobleEnlazada\\DoublyLinkedList.cs",
+              "ToolTip": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\ListaDobleEnlazada\\DoublyLinkedList.cs",
+              "RelativeToolTip": "ListaDobleEnlazada\\DoublyLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:41:07.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\ListaDobleEnlazada\\Node.cs",
+              "RelativeDocumentMoniker": "ListaDobleEnlazada\\Node.cs",
+              "ToolTip": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\ListaDobleEnlazada\\Node.cs",
+              "RelativeToolTip": "ListaDobleEnlazada\\Node.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:41:07.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\ListaDobleEnlazada\\Program.cs",
+              "RelativeDocumentMoniker": "ListaDobleEnlazada\\Program.cs",
+              "ToolTip": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana02\\ListaDobleEnlazada\\ListaDobleEnlazada\\Program.cs",
+              "RelativeToolTip": "ListaDobleEnlazada\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:41:07.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

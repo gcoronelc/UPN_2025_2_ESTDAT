@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93C7A19-9E06-4218-A732-E257A29BB5E7}|Ejemplo01\\Ejemplo01.csproj|d:\\upn\\wa-estructura de datos\\semana01\\ejemplo01\\ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93C7A19-9E06-4218-A732-E257A29BB5E7}|Ejemplo01\\Ejemplo01.csproj|solutionrelative:ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93C7A19-9E06-4218-A732-E257A29BB5E7}|Ejemplo01\\Ejemplo01.csproj|D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\ejemplo01\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93C7A19-9E06-4218-A732-E257A29BB5E7}|Ejemplo01\\Ejemplo01.csproj|solutionrelative:ejemplo01\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93C7A19-9E06-4218-A732-E257A29BB5E7}|Ejemplo01\\Ejemplo01.csproj|D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\ejemplo01\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93C7A19-9E06-4218-A732-E257A29BB5E7}|Ejemplo01\\Ejemplo01.csproj|solutionrelative:ejemplo01\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\Ejemplo01\\LinkedList.cs",
+              "RelativeDocumentMoniker": "Ejemplo01\\LinkedList.cs",
+              "ToolTip": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\Ejemplo01\\LinkedList.cs",
+              "RelativeToolTip": "Ejemplo01\\LinkedList.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:07:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\Ejemplo01\\Node.cs",
+              "RelativeDocumentMoniker": "Ejemplo01\\Node.cs",
+              "ToolTip": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\Ejemplo01\\Node.cs",
+              "RelativeToolTip": "Ejemplo01\\Node.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:07:45.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\Ejemplo01\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo01\\Program.cs",
+              "ToolTip": "D:\\UPN\\WA-ESTRUCTURA DE DATOS\\Semana01\\Ejemplo01\\Ejemplo01\\Program.cs",
+              "RelativeToolTip": "Ejemplo01\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:07:45.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
