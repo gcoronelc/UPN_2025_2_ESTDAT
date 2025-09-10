@@ -1,0 +1,8 @@
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.AssemblyReference.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.SuggestedBindingRedirects.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.CoreCompileInputs.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
