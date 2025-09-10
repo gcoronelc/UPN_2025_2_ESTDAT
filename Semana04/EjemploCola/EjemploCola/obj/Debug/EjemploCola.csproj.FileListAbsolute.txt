@@ -1,0 +1,8 @@
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\bin\Debug\EjemploCola.exe.config
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\bin\Debug\EjemploCola.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\bin\Debug\EjemploCola.pdb
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\obj\Debug\EjemploCola.csproj.AssemblyReference.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\obj\Debug\EjemploCola.csproj.SuggestedBindingRedirects.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\obj\Debug\EjemploCola.csproj.CoreCompileInputs.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\obj\Debug\EjemploCola.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploCola\EjemploCola\obj\Debug\EjemploCola.pdb

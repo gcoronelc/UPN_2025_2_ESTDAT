@@ -1,8 +1,0 @@
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\bin\Debug\ListaCircularSimpleEnlazada.exe.config
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\bin\Debug\ListaCircularSimpleEnlazada.exe
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\bin\Debug\ListaCircularSimpleEnlazada.pdb
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\obj\Debug\ListaCircularSimpleEnlazada.csproj.AssemblyReference.cache
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\obj\Debug\ListaCircularSimpleEnlazada.csproj.SuggestedBindingRedirects.cache
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\obj\Debug\ListaCircularSimpleEnlazada.csproj.CoreCompileInputs.cache
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\obj\Debug\ListaCircularSimpleEnlazada.exe
-D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaCircularSimpleEnlazada\ListaCircularSimpleEnlazada\obj\Debug\ListaCircularSimpleEnlazada.pdb

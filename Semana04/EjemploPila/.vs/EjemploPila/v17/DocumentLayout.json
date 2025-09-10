@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D071A9-88E9-4418-9827-EF5A0003B607}|EjemploPila\\EjemploPila.csproj|D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\ejemplopila\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D071A9-88E9-4418-9827-EF5A0003B607}|EjemploPila\\EjemploPila.csproj|solutionrelative:ejemplopila\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D071A9-88E9-4418-9827-EF5A0003B607}|EjemploPila\\EjemploPila.csproj|d:\\egcc\\upn_2025_2_estdat\\semana04\\ejemplopila\\ejemplopila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D071A9-88E9-4418-9827-EF5A0003B607}|EjemploPila\\EjemploPila.csproj|solutionrelative:ejemplopila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D071A9-88E9-4418-9827-EF5A0003B607}|EjemploPila\\EjemploPila.csproj|D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\ejemplopila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D071A9-88E9-4418-9827-EF5A0003B607}|EjemploPila\\EjemploPila.csproj|solutionrelative:ejemplopila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\EjemploPila\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploPila\\Program.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\EjemploPila\\Program.cs",
+              "RelativeToolTip": "EjemploPila\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:35:35.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\EjemploPila\\Pila.cs",
+              "RelativeDocumentMoniker": "EjemploPila\\Pila.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\EjemploPila\\Pila.cs",
+              "RelativeToolTip": "EjemploPila\\Pila.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwEQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:35:35.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\EjemploPila\\Nodo.cs",
+              "RelativeDocumentMoniker": "EjemploPila\\Nodo.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploPila\\EjemploPila\\Nodo.cs",
+              "RelativeToolTip": "EjemploPila\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:35:35.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

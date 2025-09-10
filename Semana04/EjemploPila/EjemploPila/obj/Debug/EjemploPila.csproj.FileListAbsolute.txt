@@ -1,0 +1,15 @@
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\bin\Debug\EjemploPila.exe.config
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\bin\Debug\EjemploPila.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\bin\Debug\EjemploPila.pdb
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.csproj.AssemblyReference.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.csproj.SuggestedBindingRedirects.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.csproj.CoreCompileInputs.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\EjemploPila\EjemploPila\bin\Debug\EjemploPila.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\EjemploPila\EjemploPila\bin\Debug\EjemploPila.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\EjemploPila\EjemploPila\bin\Debug\EjemploPila.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\EjemploPila\EjemploPila\obj\Debug\EjemploPila.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploColaSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D02D2F-B93A-4731-95DC-C3866081DA0F}|EjemploColaSimple\\EjemploColaSimple.csproj|d:\\egcc\\upn_2025_2_estdat\\semana04\\ejemplocolasimple\\ejemplocolasimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D02D2F-B93A-4731-95DC-C3866081DA0F}|EjemploColaSimple\\EjemploColaSimple.csproj|solutionrelative:ejemplocolasimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D02D2F-B93A-4731-95DC-C3866081DA0F}|EjemploColaSimple\\EjemploColaSimple.csproj|d:\\egcc\\upn_2025_2_estdat\\semana04\\ejemplocolasimple\\ejemplocolasimple\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D02D2F-B93A-4731-95DC-C3866081DA0F}|EjemploColaSimple\\EjemploColaSimple.csproj|solutionrelative:ejemplocolasimple\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D02D2F-B93A-4731-95DC-C3866081DA0F}|EjemploColaSimple\\EjemploColaSimple.csproj|d:\\egcc\\upn_2025_2_estdat\\semana04\\ejemplocolasimple\\ejemplocolasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D02D2F-B93A-4731-95DC-C3866081DA0F}|EjemploColaSimple\\EjemploColaSimple.csproj|solutionrelative:ejemplocolasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploColaSimple\\EjemploColaSimple\\Cola.cs",
+              "RelativeDocumentMoniker": "EjemploColaSimple\\Cola.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploColaSimple\\EjemploColaSimple\\Cola.cs",
+              "RelativeToolTip": "EjemploColaSimple\\Cola.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:21:34.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploColaSimple\\EjemploColaSimple\\Nodo.cs",
+              "RelativeDocumentMoniker": "EjemploColaSimple\\Nodo.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploColaSimple\\EjemploColaSimple\\Nodo.cs",
+              "RelativeToolTip": "EjemploColaSimple\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:17:40.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploColaSimple\\EjemploColaSimple\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploColaSimple\\Program.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2025_2_ESTDAT\\Semana04\\EjemploColaSimple\\EjemploColaSimple\\Program.cs*",
+              "RelativeToolTip": "EjemploColaSimple\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:17:01.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
