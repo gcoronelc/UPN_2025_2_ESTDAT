@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EGCC\\PortableGit\\UPN_2025_2_ESTDAT\\Semana05\\EjemploPila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7283B97E-1013-4B95-B94C-B8F92458A32A}|EjemploPila\\EjemploPila.csproj|d:\\egcc\\portablegit\\upn_2025_2_estdat\\semana05\\ejemplopila\\ejemplopila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283B97E-1013-4B95-B94C-B8F92458A32A}|EjemploPila\\EjemploPila.csproj|solutionrelative:ejemplopila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283B97E-1013-4B95-B94C-B8F92458A32A}|EjemploPila\\EjemploPila.csproj|d:\\egcc\\portablegit\\upn_2025_2_estdat\\semana05\\ejemplopila\\ejemplopila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283B97E-1013-4B95-B94C-B8F92458A32A}|EjemploPila\\EjemploPila.csproj|solutionrelative:ejemplopila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283B97E-1013-4B95-B94C-B8F92458A32A}|EjemploPila\\EjemploPila.csproj|d:\\egcc\\portablegit\\upn_2025_2_estdat\\semana05\\ejemplopila\\ejemplopila\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283B97E-1013-4B95-B94C-B8F92458A32A}|EjemploPila\\EjemploPila.csproj|solutionrelative:ejemplopila\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "D:\\EGCC\\PortableGit\\UPN_2025_2_ESTDAT\\Semana05\\EjemploPila\\EjemploPila\\Pila.cs",
+              "RelativeDocumentMoniker": "EjemploPila\\Pila.cs",
+              "ToolTip": "D:\\EGCC\\PortableGit\\UPN_2025_2_ESTDAT\\Semana05\\EjemploPila\\EjemploPila\\Pila.cs",
+              "RelativeToolTip": "EjemploPila\\Pila.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:09:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\EGCC\\PortableGit\\UPN_2025_2_ESTDAT\\Semana05\\EjemploPila\\EjemploPila\\Nodo.cs",
+              "RelativeDocumentMoniker": "EjemploPila\\Nodo.cs",
+              "ToolTip": "D:\\EGCC\\PortableGit\\UPN_2025_2_ESTDAT\\Semana05\\EjemploPila\\EjemploPila\\Nodo.cs",
+              "RelativeToolTip": "EjemploPila\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:59:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EGCC\\PortableGit\\UPN_2025_2_ESTDAT\\Semana05\\EjemploPila\\EjemploPila\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploPila\\Program.cs",
+              "ToolTip": "D:\\EGCC\\PortableGit\\UPN_2025_2_ESTDAT\\Semana05\\EjemploPila\\EjemploPila\\Program.cs",
+              "RelativeToolTip": "EjemploPila\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:59:23.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

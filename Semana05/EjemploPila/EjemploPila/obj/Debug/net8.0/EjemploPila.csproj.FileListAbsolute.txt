@@ -1,0 +1,15 @@
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\bin\Debug\net8.0\EjemploPila.exe
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\bin\Debug\net8.0\EjemploPila.deps.json
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\bin\Debug\net8.0\EjemploPila.runtimeconfig.json
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\bin\Debug\net8.0\EjemploPila.dll
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\bin\Debug\net8.0\EjemploPila.pdb
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.GeneratedMSBuildEditorConfig.editorconfig
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.AssemblyInfoInputs.cache
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.AssemblyInfo.cs
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.csproj.CoreCompileInputs.cache
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.sourcelink.json
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.dll
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\refint\EjemploPila.dll
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.pdb
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\EjemploPila.genruntimeconfig.cache
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana05\EjemploPila\EjemploPila\obj\Debug\net8.0\ref\EjemploPila.dll
