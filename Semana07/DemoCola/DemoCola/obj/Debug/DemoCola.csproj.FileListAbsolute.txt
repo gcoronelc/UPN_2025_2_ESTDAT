@@ -1,0 +1,7 @@
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana07\DemoCola\DemoCola\bin\Debug\DemoCola.exe.config
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana07\DemoCola\DemoCola\bin\Debug\DemoCola.exe
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana07\DemoCola\DemoCola\bin\Debug\DemoCola.pdb
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana07\DemoCola\DemoCola\obj\Debug\DemoCola.csproj.AssemblyReference.cache
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana07\DemoCola\DemoCola\obj\Debug\DemoCola.csproj.CoreCompileInputs.cache
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana07\DemoCola\DemoCola\obj\Debug\DemoCola.exe
+D:\EGCC\PortableGit\UPN_2025_2_ESTDAT\Semana07\DemoCola\DemoCola\obj\Debug\DemoCola.pdb
