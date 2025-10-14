@@ -1,0 +1,7 @@
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\PreviasArboles\PreviasArboles\bin\Debug\PreviasArboles.exe.config
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\PreviasArboles\PreviasArboles\bin\Debug\PreviasArboles.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\PreviasArboles\PreviasArboles\bin\Debug\PreviasArboles.pdb
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\PreviasArboles\PreviasArboles\obj\Debug\PreviasArboles.csproj.AssemblyReference.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\PreviasArboles\PreviasArboles\obj\Debug\PreviasArboles.csproj.CoreCompileInputs.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\PreviasArboles\PreviasArboles\obj\Debug\PreviasArboles.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\PreviasArboles\PreviasArboles\obj\Debug\PreviasArboles.pdb
