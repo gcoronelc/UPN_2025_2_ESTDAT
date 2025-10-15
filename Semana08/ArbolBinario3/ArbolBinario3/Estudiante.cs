@@ -20,7 +20,7 @@ namespace ArbolBinario3
 
         public override string ToString()
         {
-            return $"{Nombre} - Nota: {Nota:F2}";
+            return $"{Nombre} - (Nota: {Nota:F2})";
         }
     }
 }

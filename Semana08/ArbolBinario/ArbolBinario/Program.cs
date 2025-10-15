@@ -11,8 +11,9 @@ namespace ArbolBinario
         static void Main(string[] args)
         {
             ArbolBinario arbol = new ArbolBinario();
-
+            
             arbol.AgregarNodo(50);
+            
             arbol.AgregarNodo(30);
             arbol.AgregarNodo(70);
             arbol.AgregarNodo(20);
@@ -21,6 +22,7 @@ namespace ArbolBinario
             arbol.AgregarNodo(80);
             arbol.AgregarNodo(20);
             arbol.AgregarNodo(55);
+            
             Console.WriteLine("-------------------------------------------------------------");
             arbol.ImprimirInOrden();
             Console.WriteLine("-------------------------------------------------------------");

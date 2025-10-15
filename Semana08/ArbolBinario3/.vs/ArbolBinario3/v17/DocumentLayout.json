@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|solutionrelative:arbolbinario3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\arbolbinario3\\arbolestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|solutionrelative:arbolbinario3\\arbolestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\arbolbinario3\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|solutionrelative:arbolbinario3\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\arbolbinario3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|solutionrelative:arbolbinario3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\arbolbinario3\\arbolestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A57BF6B-DDA3-4D73-9423-7990B8A968DC}|ArbolBinario3\\ArbolBinario3.csproj|solutionrelative:arbolbinario3\\arbolestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "ArbolBinario3\\Program.cs",
               "ToolTip": "D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\ArbolBinario3\\Program.cs",
               "RelativeToolTip": "ArbolBinario3\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T07:24:19.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ArbolEstudiantes.cs",
               "DocumentMoniker": "D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\ArbolBinario3\\ArbolEstudiantes.cs",
               "RelativeDocumentMoniker": "ArbolBinario3\\ArbolEstudiantes.cs",
@@ -55,27 +55,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Nodo.cs",
               "DocumentMoniker": "D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\ArbolBinario3\\Nodo.cs",
               "RelativeDocumentMoniker": "ArbolBinario3\\Nodo.cs",
               "ToolTip": "D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\ArbolBinario3\\Nodo.cs",
               "RelativeToolTip": "ArbolBinario3\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:21:57.355Z"
+              "WhenOpened": "2025-10-15T07:21:57.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\ArbolBinario3\\Estudiante.cs",
               "RelativeDocumentMoniker": "ArbolBinario3\\Estudiante.cs",
               "ToolTip": "D:\\GITHUB\\UPN\\UPN_2025_2_ESTDAT\\Semana08\\ArbolBinario3\\ArbolBinario3\\Estudiante.cs",
               "RelativeToolTip": "ArbolBinario3\\Estudiante.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:21:06.456Z"
+              "WhenOpened": "2025-10-15T07:21:06.456Z",
+              "EditorCaption": ""
             }
           ]
         }
