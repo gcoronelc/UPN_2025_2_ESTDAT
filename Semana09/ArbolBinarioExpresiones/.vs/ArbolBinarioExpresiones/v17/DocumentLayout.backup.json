@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|d:\\upn\\ug-estructura de datos\\ppt-egcc\\semana09\\arbolbinarioexpresiones\\arbolbinarioexpresiones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|solutionrelative:arbolbinarioexpresiones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|d:\\upn\\ug-estructura de datos\\ppt-egcc\\semana09\\arbolbinarioexpresiones\\arbolbinarioexpresiones\\arbolexpresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|solutionrelative:arbolbinarioexpresiones\\arbolexpresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|d:\\upn\\ug-estructura de datos\\ppt-egcc\\semana09\\arbolbinarioexpresiones\\arbolbinarioexpresiones\\parserexpresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|solutionrelative:arbolbinarioexpresiones\\parserexpresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|d:\\upn\\ug-estructura de datos\\ppt-egcc\\semana09\\arbolbinarioexpresiones\\arbolbinarioexpresiones\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE79FAED-DBB1-41F6-A9BA-68201D031464}|ArbolBinarioExpresiones\\ArbolBinarioExpresiones.csproj|solutionrelative:arbolbinarioexpresiones\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArbolExpresion.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\ArbolExpresion.cs",
+              "RelativeDocumentMoniker": "ArbolBinarioExpresiones\\ArbolExpresion.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\ArbolExpresion.cs",
+              "RelativeToolTip": "ArbolBinarioExpresiones\\ArbolExpresion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:48:12.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParserExpresion.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\ParserExpresion.cs",
+              "RelativeDocumentMoniker": "ArbolBinarioExpresiones\\ParserExpresion.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\ParserExpresion.cs",
+              "RelativeToolTip": "ArbolBinarioExpresiones\\ParserExpresion.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAKQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:46:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodoArbol.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\NodoArbol.cs",
+              "RelativeDocumentMoniker": "ArbolBinarioExpresiones\\NodoArbol.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\NodoArbol.cs",
+              "RelativeToolTip": "ArbolBinarioExpresiones\\NodoArbol.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:45:38.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\Program.cs",
+              "RelativeDocumentMoniker": "ArbolBinarioExpresiones\\Program.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\PPT-EGCC\\Semana09\\ArbolBinarioExpresiones\\ArbolBinarioExpresiones\\Program.cs",
+              "RelativeToolTip": "ArbolBinarioExpresiones\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:45:14.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

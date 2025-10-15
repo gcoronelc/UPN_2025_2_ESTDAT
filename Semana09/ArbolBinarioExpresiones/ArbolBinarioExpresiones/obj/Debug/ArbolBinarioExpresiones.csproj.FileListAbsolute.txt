@@ -1,0 +1,7 @@
+D:\UPN\UG-ESTRUCTURA DE DATOS\PPT-EGCC\Semana09\ArbolBinarioExpresiones\ArbolBinarioExpresiones\bin\Debug\ArbolBinarioExpresiones.exe.config
+D:\UPN\UG-ESTRUCTURA DE DATOS\PPT-EGCC\Semana09\ArbolBinarioExpresiones\ArbolBinarioExpresiones\bin\Debug\ArbolBinarioExpresiones.exe
+D:\UPN\UG-ESTRUCTURA DE DATOS\PPT-EGCC\Semana09\ArbolBinarioExpresiones\ArbolBinarioExpresiones\bin\Debug\ArbolBinarioExpresiones.pdb
+D:\UPN\UG-ESTRUCTURA DE DATOS\PPT-EGCC\Semana09\ArbolBinarioExpresiones\ArbolBinarioExpresiones\obj\Debug\ArbolBinarioExpresiones.csproj.AssemblyReference.cache
+D:\UPN\UG-ESTRUCTURA DE DATOS\PPT-EGCC\Semana09\ArbolBinarioExpresiones\ArbolBinarioExpresiones\obj\Debug\ArbolBinarioExpresiones.csproj.CoreCompileInputs.cache
+D:\UPN\UG-ESTRUCTURA DE DATOS\PPT-EGCC\Semana09\ArbolBinarioExpresiones\ArbolBinarioExpresiones\obj\Debug\ArbolBinarioExpresiones.exe
+D:\UPN\UG-ESTRUCTURA DE DATOS\PPT-EGCC\Semana09\ArbolBinarioExpresiones\ArbolBinarioExpresiones\obj\Debug\ArbolBinarioExpresiones.pdb
