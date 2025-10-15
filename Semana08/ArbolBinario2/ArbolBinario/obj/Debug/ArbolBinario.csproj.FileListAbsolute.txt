@@ -1,0 +1,22 @@
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
+D:\UPN\ESTRUCTURA DE DATOS\Semana06\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+D:\UPN\ESTRUCTURA DE DATOS\Semana06\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana06\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+D:\UPN\ESTRUCTURA DE DATOS\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+D:\UPN\ESTRUCTURA DE DATOS\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+D:\UPN\ESTRUCTURA DE DATOS\Semana06\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\bin\Debug\ArbolBinario.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\bin\Debug\ArbolBinario.pdb
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\obj\Debug\ArbolBinario.exe.config
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\obj\Debug\ArbolBinario.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario\obj\Debug\ArbolBinario.pdb

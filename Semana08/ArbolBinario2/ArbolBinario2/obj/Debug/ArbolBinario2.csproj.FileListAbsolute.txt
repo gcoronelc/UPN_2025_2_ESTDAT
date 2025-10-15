@@ -1,0 +1,8 @@
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\bin\Debug\ArbolBinario2.exe.config
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\bin\Debug\ArbolBinario2.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\bin\Debug\ArbolBinario2.pdb
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\obj\Debug\ArbolBinario2.csproj.AssemblyReference.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\obj\Debug\ArbolBinario2.csproj.CoreCompileInputs.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\obj\Debug\ArbolBinario2.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\obj\Debug\ArbolBinario2.pdb
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana08\ArbolBinario2\ArbolBinario2\obj\Debug\ArbolBinario2.exe.config
