@@ -1,0 +1,15 @@
+C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.exe.config
+C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.exe
+C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.pdb
+C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.exe
+C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.pdb
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.exe.config
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.pdb
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj.AssemblyReference.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.exe.config
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj.CoreCompileInputs.cache
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.exe
+D:\GITHUB\UPN\UPN_2025_2_ESTDAT\Semana14\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.pdb
